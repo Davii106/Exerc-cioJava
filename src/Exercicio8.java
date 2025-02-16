@@ -6,8 +6,8 @@ public class Exercicio8 {
 
         System.out.print("Digite uma distância em metros:");
         double distancia = ler.nextDouble();
-        double distancia2 = (distancia/100);
+        double distancia2 = (distancia*100);
 
-        System.out.println("Distância de "+ distancia2+" Cm");
+        System.out.println("A sua distância de metros convertida é igual a "+ distancia2+" Cm");
     }
 }
