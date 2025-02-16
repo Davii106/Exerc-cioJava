@@ -10,6 +10,6 @@ public class Exercicio16 {
         double anos_de_fumo = ler.nextDouble();
         double perca_de_vida = (cigarros*10)/24;
 
-        System.out.print("Você perderá "+perca_de_vida+" a cada "+cigarros+" cigarro que fumar");
+        System.out.print("Você perderá "+perca_de_vida+" minutos de vida a cada "+cigarros+" cigarro que fumar");
     }
 }
