@@ -11,5 +11,7 @@ public class Exercicio15 {
         double salario = horas*25*dias;
 
         System.out.print("O seu salário deste mês é R$"+salario+" por ter trabalhado "+horas+" horas e "+dias+" dias no mês");
+
+        ler.close();
     }
 }
