@@ -12,5 +12,7 @@ public class Exercicio10 {
         double litros_de_tinta = area*2;
 
         System.out.print("Você precisará de "+litros_de_tinta+" litros para pintar uma area "+area+" metros");
+
+        ler.close();
     }
 }
