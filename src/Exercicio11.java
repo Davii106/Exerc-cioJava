@@ -13,5 +13,7 @@ public class Exercicio11 {
 
         float Delta = (b*b)-4*(a)*(c);
         System.out.print("Seu Delta Δ é igual a "+Delta);
+
+        ler.close();
     }
 }
