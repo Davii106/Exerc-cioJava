@@ -9,5 +9,7 @@ public class Exercicio3 {
         System.out.print("Digite seu salário: ");
         float salario = ler.nextFloat();
         System.out.print("O funcionário "+ nome+" tem um salário de "+ salario+" em junho.");
+
+        ler.close();
     }
 }
