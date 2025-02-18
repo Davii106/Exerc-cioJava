@@ -6,5 +6,7 @@ public class Exercicio2 {
         System.out.print("Digite seu nome: ");
         String nome = ler.nextLine();
         System.out.println("Olá "+ nome+", é um prazer te conhecer!");
+
+        ler.close();
     }
 }
