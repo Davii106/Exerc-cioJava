@@ -9,5 +9,7 @@ public class Exercicio12 {
         double desconto = produto - (produto*(0.05));
 
         System.out.print("Com o desconto de 5% seu "+produto+" ficará a "+desconto);
+
+        ler.close();
     }
 }
