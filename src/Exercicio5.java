@@ -12,5 +12,6 @@ public class Exercicio5 {
         float media = (nota1 + nota2)/2;
         System.out.println("A média entre "+ nota1+" e "+ nota2+" é igual a "+media);
 
+        ler.close();
     }
 }
