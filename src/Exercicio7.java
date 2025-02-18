@@ -11,5 +11,7 @@ public class Exercicio7 {
 
         System.out.println("O dobro de "+numero+" é "+numero2);
         System.out.println("A terça parte de "+numero+" é "+numero3);
+
+        ler.close();
     }
 }
