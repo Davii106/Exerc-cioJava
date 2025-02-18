@@ -12,5 +12,6 @@ public class Exercicio6 {
         System.out.println("O antecessor de "+ numero+" é "+ numero1);
         System.out.println("O sucessor de "+numero+" é "+ numero2);
 
+        ler.close();
     }
 }
