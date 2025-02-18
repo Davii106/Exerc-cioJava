@@ -11,5 +11,7 @@ public class Exercicio14 {
         double preço_total = (90*dias)+(0.20*kms);
 
         System.out.print("Você pagará um total de R$"+preço_total+" por ter usado o carro por "+dias+" dias e percorrido "+kms+" Km");
+
+        ler.close();
     }
 }
