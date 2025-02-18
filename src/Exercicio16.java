@@ -11,5 +11,7 @@ public class Exercicio16 {
         double perca_de_vida = (cigarros*10)/24;
 
         System.out.print("Você perderá "+perca_de_vida+" minutos de vida a cada "+cigarros+" cigarro que fumar");
+
+        ler.close();
     }
 }
