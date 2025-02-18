@@ -9,5 +9,7 @@ public class Exercicio13 {
         double novo_salario = salario+(salario*(0.15));
 
         System.out.print("Seu antigo salário era "+salario+" e com o aumento de 15% ficará "+novo_salario);
+
+        ler.close();
     }
 }
