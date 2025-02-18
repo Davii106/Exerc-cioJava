@@ -9,5 +9,7 @@ public class Exercicio8 {
         double distancia2 = (distancia*100);
 
         System.out.println("A sua distância de metros convertida é igual a "+ distancia2+" Cm");
+
+        ler.close();
     }
 }
