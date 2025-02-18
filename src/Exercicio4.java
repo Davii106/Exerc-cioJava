@@ -10,5 +10,7 @@ public class Exercicio4 {
         int valor2 = ler.nextInt();
         int soma = valor1 + valor2;
         System.out.print("A soma entre "+valor1+" e "+valor2+" igual a "+soma);
+
+        ler.close();
     }
 }
