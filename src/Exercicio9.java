@@ -9,5 +9,7 @@ public class Exercicio9 {
         double dolar = real/6.09;
 
         System.out.println("Você tem "+ real+" e pode comprar "+dolar);
+
+        ler.close();
     }
 }
